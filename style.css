@@ -1,0 +1,34 @@
+.whatsapp-icon{
+    position: fixed;
+    right: 10px;
+    bottom: 20px;
+    height: 50; 
+    width: 50
+}
+
+.whatsapp-icon:hover{
+    position: fixed;
+    right: 10px;
+    bottom: 20px;
+    height: 50; 
+    width: 50
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+p{
+    color: blue;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#name{
+    color: rebeccapurple;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
